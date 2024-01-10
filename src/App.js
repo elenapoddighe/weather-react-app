@@ -1,5 +1,6 @@
 import "./App.css";
 import Weather from "./Weather";
+import Loader from "react-loader-spinner";
 
 function App() {
   return (
