@@ -1,0 +1,9 @@
+ul {
+  color: blue;
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+  padding-right: 20px;
+}
