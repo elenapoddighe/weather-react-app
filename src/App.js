@@ -1,6 +1,6 @@
 import "./App.css";
 import Weather from "./Weather";
-import Loader from "react-loader-spinner";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <h1>Hello World </h1>
         <Weather city="Tokyo" />
+        <Footer />
       </header>
     </div>
   );
